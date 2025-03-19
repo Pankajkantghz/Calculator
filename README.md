@@ -22,4 +22,4 @@ A basic calculator implemented using HTML, CSS, and JavaScript.
 
 Feel free to customize and enhance the calculator as needed!
 or
-Visit https://pankajkantghz.github.io/Simple-Calculator/
+Visit https://pankajkantghz.github.io/Calculator/
